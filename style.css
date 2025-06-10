@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fff8f0;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+form input, form textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #f57c00;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.recipe-card {
+  background: white;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.recipe-card img {
+  max-width: 100%;
+  height: auto;
+}
