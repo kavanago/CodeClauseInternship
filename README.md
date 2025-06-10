@@ -12,9 +12,9 @@ A simple and user-friendly Recipe Book web application where users can create, v
 
 Tech Stack
 
- **HTML**
- **CSS**
- **JavaScript**
+ HTML
+ CSS
+And  JavaScript
 
  
 
